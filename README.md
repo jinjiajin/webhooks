@@ -1,2 +1,2 @@
-# webhooks
+# gitea webhooks
 webhooks
